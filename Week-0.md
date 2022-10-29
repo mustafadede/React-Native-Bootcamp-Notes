@@ -10,8 +10,13 @@
 - Xcode kısmında eski sürümler : https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file
 - Java SDK kurulumu kısmında add to path dememiz şart. Eğer yapmadan geçerseniz path kısmına ekstra olarak tanımlayın ya da indirdiğimiz SDK dosyasını tekrar açıp change kısmını seçip add to path kısmını seçerek ekleyin.
 - Android kurulumu sırasında tüm tikleri işaretleyiniz.
+  <br>
   ![kurulum-fotoğrafı](./pictures/1.png)
+  <br>
+
 - Android Studio kurulduktan sonra more actions kısmına tıklayalım ve aşağıda olan kısımları seçelim:
+  <br>
+
   ![kurulum-fotoğrafı](./pictures/2.png)
   ![kurulum-fotoğrafı](./pictures/3.png)
 
