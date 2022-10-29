@@ -29,7 +29,7 @@
 
 Proje oluşturmak için `npx react-native init [proje adı]` komutu ile terminale komut yazabilirsiniz.
 
-- Android kısmı için CTRL+R tuşlaması yaparak `SystemPropertiesAdvanced.exe` girin ve ortam değişkenlerini açın.
+- Android kısmı için Windows tuşu + R tuşlaması yaparak `SystemPropertiesAdvanced.exe` girin ve ortam değişkenlerini açın.
 
 - Ortam değişkenleri içerisine Sistem değişkenleri kısmından Path kısmına gelip fotoğraftaki son iki kısmı değişkenlere ayrı ayrı ekleyin.
 
