@@ -27,6 +27,8 @@
 
 ## React Native CLI ile proje oluşturmak
 
+### Windows için:
+
 Proje oluşturmak için `npx react-native init [proje adı]` komutu ile terminale komut yazabilirsiniz.
 
 - Android kısmı için Windows tuşu + R tuşlaması yaparak `SystemPropertiesAdvanced.exe` girin ve ortam değişkenlerini açın.
@@ -40,3 +42,6 @@ Proje oluşturmak için `npx react-native init [proje adı]` komutu ile terminal
 - Brew yüklemek için : https://brew.sh/index_tr
 - `brew install node` diyerek node'u kurunuz.
 - Pods için : https://cocoapods.org/
+
+- Z Profile hatası için terminale bunları yazınız :
+  `export ANDROID_HOME=$HOME/Library/Android/sdk export PATH=$PATH:$ANDROID_HOME/emulator export PATH=$PATH:$ANDROID_HOME/tools export PATH=$PATH:$ANDROID_HOME/tools/bin export PATH=$PATH:$ANDROID_HOME/platform-tools`
