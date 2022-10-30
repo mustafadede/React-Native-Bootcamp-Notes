@@ -1,5 +1,9 @@
 # React Native Start
 
+**Not: Android kısımlarını ios ile değiştirebilirsiniz.**
+
+<br>
+
 Proje kurulumu :
 
 1. Terminal kısmına `npx react-native init [proje-adi]` yazarak React Native projesi başlatabilirsiniz.
