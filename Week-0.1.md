@@ -8,8 +8,9 @@ Proje kurulumu :
 
 - NPM cache temizleme : `npm cache clean --force`
 - NPM cache temizleme doğrulama : `npm cache verify`
+- NPM install dediğimizde sürüm çakışması için : `npm install --legacy-peer-deps`
 
-Sorunlar :
+  Sorunlar :
 
 - npx kurulumu için : `sudo npm i -g npx`
 - Ruby version seçme :
