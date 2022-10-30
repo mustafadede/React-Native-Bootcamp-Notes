@@ -20,6 +20,8 @@ Kendi cihazınızda çalıştırmak için :
 
 3. Projenizi cihazınızda başlatmak için `npx react-native run-android --deviceId=yourDeviceId `
 
+4. Projenizi daha sonra başlatmak için : `adb reverse tcp:8081 tcp:8081`
+
 İpuçları :
 
 - NPM cache temizleme : `npm cache clean --force`
