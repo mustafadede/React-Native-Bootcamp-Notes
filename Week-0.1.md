@@ -4,6 +4,18 @@ Proje kurulumu :
 
 1. Terminal kısmına `npx react-native init [proje-adi]` yazarak React Native projesi başlatabilirsiniz.
 
+IOS için build alma :
+
+1. ios klasörüne gelip terminalde aç dedikten sonra `pod install --repo-update` terminale kodu giriniz.
+
+Kendi cihazınızda çalıştırmak için :
+
+1. Telefonu kablo ile bağlayıp usb debugging modunu açın.
+
+2. Terminalde cihazınızı görüntülemek için `adb devices`
+
+3. Projenizi cihazınızda başlatmak için `npx react-native run-android --deviceId=yourDeviceId `
+
 İpuçları :
 
 - NPM cache temizleme : `npm cache clean --force`
