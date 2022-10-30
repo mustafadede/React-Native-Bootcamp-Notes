@@ -7,3 +7,4 @@
   - StyleSheet : [Tıkla](https://reactnative.dev/docs/stylesheet)
   - Layout Props : [Tıkla](https://reactnative.dev/docs/layout-props)
   - API dökümantasyonu okuması : [Tıkla](https://reactnative.dev/docs/accessibilityinfo)
+  - Spread operator
