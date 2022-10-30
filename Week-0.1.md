@@ -19,7 +19,11 @@ Proje kurulumu :
 
 - React Native Upgrade helper : [Tıkla](https://react-native-community.github.io/upgrade-helper/)
 
-Sorunlar :
+- NPM sürümlerini görme : `npm outdated`
+- NPM içeriklerini güncelleme : `npm update`
+- npm upgrade ve update arasındaki farklar : [Tıkla](https://stackoverflow.com/questions/12478679/npm-install-vs-update-whats-the-difference)
+- Start dediğimizde npm sıkıtılarını çözmek için : `npm audit fix`
+  Sorunlar :
 
 - npx kurulumu için : `sudo npm i -g npx`
 - Ruby version seçme :
