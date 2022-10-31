@@ -4,7 +4,7 @@
 2. Hafta 0.1 -> [Tıkla](Week-0.1.md)
 
 - Ödevler:
-  - StyleSheet : [Tıkla](https://reactnative.dev/docs/stylesheet)
-  - Layout Props : [Tıkla](https://reactnative.dev/docs/layout-props)
+  - StyleSheet dökümantasyon okuması : [Tıkla](https://reactnative.dev/docs/stylesheet)
+  - Layout Props dökümantasyon okuması : [Tıkla](https://reactnative.dev/docs/layout-props)
   - API dökümantasyonu okuması : [Tıkla](https://reactnative.dev/docs/accessibilityinfo)
   - Spread operator
