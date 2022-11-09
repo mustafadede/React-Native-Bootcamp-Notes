@@ -24,6 +24,7 @@ Kendi cihazınızda çalıştırmak için :
 
 İpuçları :
 
+- Expo local network hatası aldığınızda : `npx expo start --tunnel`
 - NPM cache temizleme : `npm cache clean --force`
 - NPM cache temizleme doğrulama : `npm cache verify`
 - NPM install dediğimizde sürüm çakışması için : `npm install --legacy-peer-deps`
