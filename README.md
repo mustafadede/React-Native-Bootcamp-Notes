@@ -36,5 +36,5 @@ Kendime ait 2. ödevi incelemek isterseniz [tıklayınız](https://github.com/K1
 
   İstediğimiz herhangi bir uygulama yapılacak. Önemli olan navigation ve redux.
 
-1. Hafta 3.0
+1. Hafta 3.0 -> [Tıkla](./Week-3.0.md)
     - Öğretmenin tavsiye ettiği [eklentiler](./Extensions.md)
