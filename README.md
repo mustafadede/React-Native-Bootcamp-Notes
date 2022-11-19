@@ -20,3 +20,21 @@
   - Dosya hiyerarşisine dikkat edilmeli
 
   İstediğimiz herhangi bir uygulama yapılacak. Önemli olan responsive design olması.
+
+Kendime ait 2. ödevi incelemek isterseniz [tıklayınız](https://github.com/K149-WFP-React-Native-Bootcamp/second-week-homework-mustafadede)
+
+
+1. Hafta 2.0
+2. Hafta 2.1
+
+- Ödevler:
+
+  - React Navigation proje içerinde olmalı
+  - Responsive tasarım
+  - Redux implementasyonu
+  - Dosya hiyerarşisine dikkat edilmeli
+
+  İstediğimiz herhangi bir uygulama yapılacak. Önemli olan navigation ve redux.
+
+1. Hafta 3.0
+    - Öğretmenin tavsiye ettiği [eklentiler](./Extensions.md)
